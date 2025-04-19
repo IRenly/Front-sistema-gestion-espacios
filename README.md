@@ -1,6 +1,4 @@
-# front
-
-A new Flutter project.
+# Interfaz grafica para el sistema de gestion de espacios
 
 ## Login prototipo
 
