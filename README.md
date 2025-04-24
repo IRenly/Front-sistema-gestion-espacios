@@ -1,16 +1,5 @@
-# front
+# Interfaz grafica para el sistema de gestion de espacios
 
-A new Flutter project.
+## Login prototipo
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![843shots_so](https://github.com/user-attachments/assets/b21e3f34-7700-4c31-833d-a12e7e47dc04)
